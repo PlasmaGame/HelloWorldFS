@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "nw39kwp7M4E=",
+  "success": true,
+  "projectFilePath": "D:\\luker\\source\\repos\\HelloWorldFS\\HelloWorldFS\\HelloWorldFS.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\luker\\.nuget\\packages\\fsharp.core\\8.0.301\\fsharp.core.8.0.301.nupkg.sha512"
+  ],
+  "logs": []
+}
